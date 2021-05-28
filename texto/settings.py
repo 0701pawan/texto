@@ -25,7 +25,7 @@ SECRET_KEY = '+42v64are%r59@n7lf3(1n*$p=d#i!)_ycwjl=#c#26w49n(ox'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','sampledomain.com']
+ALLOWED_HOSTS = ['127.0.0.1','https://primefinder0.herokuapp.com/']
 
 
 # Application definition
